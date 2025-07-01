@@ -3,7 +3,7 @@
 
 ¡Bienvenido al repositorio de mi portafolio personal! Este proyecto fue construido con **React** y diseñado no solo para mostrar mi trayectoria y proyectos, sino también para ser un ejemplo de mi enfoque en el desarrollo: código limpio, diseño responsivo y una excelente experiencia de usuario.
 
-**Visita la versión en vivo:** [**carlos.dev**](https://portafolio-fjn3-enjlqkmc8-carlos-projects-8c9c2397.vercel.app) 
+**Visita la versión en vivo:** [**carlos.dev**](https://portafolio-fjn3.vercel.app/) 
 
 ---
 
