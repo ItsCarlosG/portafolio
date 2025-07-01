@@ -1,0 +1,48 @@
+/* src/components/Footer.css */
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 25px;
+  text-align: center;
+  width: 100%;
+}
+
+.social-links {
+  display: flex;
+  gap: 25px;
+  margin-bottom: 20px;
+}
+
+.social-links a {
+  color: var(--text-secondary); /* Color sutil por defecto */
+  font-size: 24px;
+  transition: var(--transition);
+}
+
+.social-links a:hover {
+  color: var(--accent-primary); /* Color de acento al pasar el mouse */
+  transform: translateY(-3px);  /* Efecto de "levantarse" */
+}
+
+.footer-credit {
+  color: var(--text-secondary);
+  font-family: var(--font-mono);
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.footer-credit a {
+  color: var(--text-primary);
+  text-decoration: none;
+  transition: var(--transition);
+}
+
+.footer-credit a:hover {
+  color: var(--accent-primary);
+}
+
+/* En pantallas pequeñas, los íconos sociales ya están ocultos por defecto en este diseño,
+   pero si los quieres visibles, este es el lugar para estilizarlos. El diseño actual
+   del footer ya es bastante responsivo. */

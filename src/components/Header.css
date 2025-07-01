@@ -1,0 +1,63 @@
+.header {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  padding: 0 50px;
+  height: 80px;
+  z-index: 10;
+  background-color: rgba(10, 25, 47, 0.85);
+  backdrop-filter: blur(10px);
+  transition: var(--transition);
+}
+
+.header nav {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.header ol {
+  display: flex;
+  list-style: none;
+  gap: 30px;
+}
+
+.header ol li a {
+  color: var(--text-primary);
+  font-family: var(--font-mono);
+  font-size: 14px;
+  text-decoration: none;
+  transition: var(--transition);
+  padding: 10px;
+}
+
+.header ol li a:hover {
+  color: var(--accent-primary);
+}
+
+.header ol li a::before {
+  content: "0" counter(list-item) ".";
+  margin-right: 5px;
+  color: var(--accent-primary);
+  font-size: 13px;
+}
+
+.resume-button {
+  color: var(--accent-primary);
+  background-color: transparent;
+  border: 1px solid var(--accent-primary);
+  border-radius: var(--border-radius);
+  padding: 10px 18px;
+  font-family: var(--font-mono);
+  font-size: 14px;
+  text-decoration: none;
+  cursor: pointer;
+  transition: var(--transition);
+}
+
+.resume-button:hover {
+  background-color: rgba(100, 255, 218, 0.1);
+}
