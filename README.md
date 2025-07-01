@@ -7,11 +7,11 @@
 
 ---
 
-## 🚀 Sobre el Proyecto
+##  Sobre el Proyecto
 
 Este portafolio es una Single Page Application (SPA) desarrollada para centralizar mi información profesional. El objetivo es ofrecer una visión clara y concisa de mis habilidades técnicas, mi experiencia y los proyectos más significativos que he desarrollado. Está dirigido a reclutadores, líderes técnicos y cualquier persona interesada en mi trabajo.
 
-### ✨ Características Principales
+###  Características Principales
 
 *   **Diseño Responsivo:** Completamente adaptable a cualquier dispositivo, desde móviles hasta escritorios.
 *   **Sección de Proyectos Dinámica:** Los proyectos se cargan desde un archivo de datos, lo que facilita su mantenimiento y escalabilidad. El layout alterna para una presentación visualmente atractiva.
@@ -20,7 +20,7 @@ Este portafolio es una Single Page Application (SPA) desarrollada para centraliz
 
 ---
 
-## 🛠️ Stack Tecnológico
+##  Stack Tecnológico
 
 Este sitio fue construido utilizando tecnologías modernas de desarrollo frontend:
 
