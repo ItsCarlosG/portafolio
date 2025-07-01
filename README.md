@@ -42,4 +42,4 @@ Este sitio fue construido utilizando tecnologías modernas de desarrollo fronten
 
 ##  Licencia
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+Este proyecto está bajo la Licencia MIT. 
