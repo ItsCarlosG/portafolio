@@ -1,6 +1,5 @@
-# Mi Portafolio de Desarrollador | [Tu Nombre]
+# Mi Portafolio de Desarrollador | Carlos Alberto Gutierrez
 
-![Captura de pantalla del portafolio](https://via.placeholder.com/1200x600.png/1a1a2e/ffffff?text=Reemplázame+con+una+captura+de+tu+portafolio)
 
 ¡Bienvenido al repositorio de mi portafolio personal! Este proyecto fue construido con **React** y diseñado no solo para mostrar mi trayectoria y proyectos, sino también para ser un ejemplo de mi enfoque en el desarrollo: código limpio, diseño responsivo y una excelente experiencia de usuario.
 
