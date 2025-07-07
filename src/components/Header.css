@@ -61,3 +61,41 @@
 .resume-button:hover {
   background-color: rgba(100, 255, 218, 0.1);
 }
+@media screen and (max-width: 768px) {
+  .header {
+    justify-content: center;
+    padding: 15px 20px;
+    height: auto;
+    position: relative;
+  }
+
+  .header nav {
+    flex-direction: column;
+    align-items: center;
+    gap: 25px;
+  }
+
+  .header ol {
+    flex-direction: column;
+    gap: 20px;
+    padding: 0;
+    margin: 0;
+  }
+
+  .header ol li {
+    text-align: center;
+  }
+
+  .header ol li a {
+    font-size: 16px;
+    padding: 12px;
+    display: block;
+  }
+
+  .resume-button {
+    width: 100%;
+    max-width: 200px;
+    text-align: center;
+    margin-top: 15px;
+  }
+}
